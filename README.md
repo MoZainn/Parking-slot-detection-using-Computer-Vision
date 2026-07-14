@@ -1,3 +1,4 @@
+<img width="1124" height="636" alt="Screenshot 2026-07-14 210946" src="https://github.com/user-attachments/assets/dea739ec-bdb5-4837-ae2f-441ff71c22c1" />
 # Parking-slot-detection-using-Computer-Vision
 
 🚗 Parking Spot Detection using OpenCV
